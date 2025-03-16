@@ -9,19 +9,19 @@ body, html {
   text-align: center;
 }
 .parallax1 {
-  background: url(img/first.jpeg);
+  background: url(img/first.jpg);
   min-height: 100%;
 }
 .parallax2 {
-  background: url(img/second.jpeg);
+  background: url(img/second.jpg);
   min-height: 60%;
 }
 .parallax3 {
-  background: url(img/third.jpeg);
+  background: url(img/third.jpg);
   min-height: 40%;
 }
 .parallax4 {
-  background: url(img/fourth.jpeg);
+  background: url(img/fourth.jpg);
   min-height: 100%;
 }
 .parallax1, .parallax2, .parallax3, .parallax4 {
